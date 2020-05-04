@@ -189,3 +189,13 @@ footer {
 .footer-text {
     color: #fff;
 }
+
+.social i {   
+    color:black;
+}
+
+ 
+@media screen and (max-width:425px){
+  
+}
+  
